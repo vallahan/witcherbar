@@ -1,11 +1,11 @@
 #player,#player a{ color:#000000;  font-size: 11px; font-family: verdana;}
 #player{ background:url(http://static.tumblr.com/su8juwr/I64mkjm26/branco.png); background-position:bottom; background-color: #FFFFFF;}
-#player .mainImage{ background:url(http://s16.postimg.org/982a5lrs5/witcherpausemp3.png); }
+#player .mainImage{ background:url(witcherpausemp3.png); }
 
 #player #baseLeft{ width:93px; } 
 #player #baseRight{ width:145px;} 
 #player .button{  width:26px; }
-#player #play{ background:url(http://s16.postimg.org/ryzm20wyt/witcherplaymp3.png); }
+#player #play{ background:url(witcherplaymp3.png); }
 #player #play,#player #pause{ left:26px; }
 #player #previous{ left:0px; }     
 #player #next{ left:52px; }
